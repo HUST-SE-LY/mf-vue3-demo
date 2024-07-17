@@ -8,6 +8,7 @@
     "clean": "rm -rf dist"
   },
   "dependencies": {
+    "@module-federation/bridge-vue3": "^0.2.6",
     "@module-federation/enhanced": "^0.2.6",
     "ts-loader": "^9.5.1",
     "typescript": "^5.4.5",
